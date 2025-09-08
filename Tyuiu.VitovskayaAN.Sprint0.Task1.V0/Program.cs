@@ -2,6 +2,6 @@
 Console.WriteLine("Hello, World!");
 string name = "Алёна";
 int age = 18;
-Console.WriteLine("Здравствуйтеменя зовут " + name + " мне " + age + " лет.");
+Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет.");
 Console.ReadKey();
 
