@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tyuiu.VitovskayaAN.Sprint0.Task4.V0.Test (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Tyuiu.VitovskayaAN.Sprint0.Task4.V0.Test (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
